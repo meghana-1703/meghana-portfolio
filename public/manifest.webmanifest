@@ -1,0 +1,21 @@
+{
+  "name": "Meghana | Data Science & Software Engineering Portfolio",
+  "short_name": "Meghana",
+  "description": "Official portfolio of Meghana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
