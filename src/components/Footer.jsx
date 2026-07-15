@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { Heart } from "lucide-react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import logo from "../assets/images/logo.webp";
 
+const logo = "/logo.webp";
 export default function Footer() {
   return (
     <footer className="border-t border-white/10 py-10 px-6 mt-10">
@@ -16,10 +16,10 @@ export default function Footer() {
           viewport={{ once: true }}
         >
   <img
-    src={logo}
-    alt="Meghana Logo"
-    className="h-16 w-auto object-contain"
-  />
+  src="/logo.webp"
+  alt="Meghana Logo"
+  className="h-16 w-auto object-contain"
+/>
 
           <p className="mt-2 text-white/50">
             Software Engineer • Python Developer • React Developer

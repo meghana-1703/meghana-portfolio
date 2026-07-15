@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { Menu, X, ArrowUpRight } from "lucide-react";
-import logo from "../assets/images/logo.webp";
+const logo = "/logo.webp";
 
 export default function Navbar() {
   
