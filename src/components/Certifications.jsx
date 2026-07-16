@@ -8,7 +8,7 @@ const certificates = [
   year: "2026",
   description:
     "Awarded in recognition of outstanding performance, dedication, and contribution during the UI/UX Design Internship.",
-  file: "/certificates/future-interns-lor.pdf",
+  file: "/certificates/future interns lor.pdf",
   featured: true,
 },
   {
